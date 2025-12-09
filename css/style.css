@@ -236,6 +236,10 @@ item p{
     }
     .sidebar {
         width: 22%;
+        order:3;
+    }
+    .ad{
+        order:1;
     }
     .sidebar .heading-medium{
         line-height: 1;
