@@ -246,8 +246,10 @@ item p{
         background-image: url(../images/cover-menu-l.webp);
     }
     .grid{
+        display: grid;
         gap: 3rem 2rem;
         grid-template-columns: repeat(3, 1fr);
+        text-align: center;
     }
     .item img{
         margin-bottom: .5rem;
